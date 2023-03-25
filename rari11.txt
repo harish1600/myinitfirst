@@ -1,0 +1,5 @@
+avehis is a Second VIM file to store something found out mv command can rename a file
+
+*rm command remove file
+*man is used instead --help
+
